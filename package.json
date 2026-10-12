@@ -2,8 +2,9 @@
   "name": "antivirus-news",
   "version": "1.0.0",
   "private": true,
-  "description": "ANTIVIRUS NEWS — Professional yangiliklar mobil ilovasi",
+  "type": "module",
+  "description": "ANTIVIRUS NEWS — Mobil yangiliklar ilovasi",
   "scripts": {
-    "build": "echo 'Static build ready'"
+    "build": "node build.js"
   }
 }
